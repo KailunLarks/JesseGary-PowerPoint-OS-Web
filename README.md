@@ -20,7 +20,7 @@
 
 [Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
-[North OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
+[NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
 ## 系统列表
 
@@ -32,6 +32,6 @@
 
 [Hill OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/4)
 
-[North OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
+[NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
 [Blue OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/6)
