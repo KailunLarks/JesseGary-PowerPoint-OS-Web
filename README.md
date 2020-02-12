@@ -16,11 +16,13 @@
 
 这里将会展示本计划的模范代表性系统。
 
+[Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
+
 ## 系统列表
 
 这里将会展示本计划的所有系统。
 
 [Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
-[FlyOS](
+[FlyOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/2)
 
