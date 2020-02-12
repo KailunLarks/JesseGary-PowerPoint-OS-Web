@@ -20,7 +20,7 @@
 
 这里将会展示本计划的所有系统。
 
-Reagent OS
+[Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
-FlyOS
+[FlyOS](
 
