@@ -8,6 +8,8 @@
 
 [访问 Issues ](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues)
 
+[了解更多](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/wiki)
+
 您得先拥有一个 GitHub 账号才行。
 
 禁止发布引战、违法、威屁恩、不正当内容！
