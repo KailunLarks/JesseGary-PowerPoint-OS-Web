@@ -16,7 +16,9 @@
 
 ## 评测你的系统
 
-本项目官方合作伙伴：JesseGary PowerPoint lab.
+本项目官方合作伙伴：JesseGary PowerPoint Lab.
+
+此组织具有高度专业评审能力。
 
 加入QQ群，可享受免费~付费评测，全面分析你的系统。
 
