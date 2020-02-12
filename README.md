@@ -49,4 +49,4 @@ QQ群号：630921681
 
 ## 友情链接
 
-[Bilibili OS](www.bilibilios.org.cn)
+[Bilibili OS](https://www.bilibilios.org.cn)
