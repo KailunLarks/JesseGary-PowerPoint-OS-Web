@@ -45,3 +45,8 @@ QQ群号：630921681
 [NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
 [Blue OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/6)
+
+
+## 友情链接
+
+[Bilibili OS](www.bilibilios.org.cn)
