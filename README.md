@@ -54,7 +54,7 @@ QQ群号：630921681
 
 ## 有疑问？
 
-[查看帮助]（https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/wiki）
+[查看帮助](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/wiki)
 
 ## 关于
 
