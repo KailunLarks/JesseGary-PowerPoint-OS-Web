@@ -66,4 +66,4 @@ Newgen Studio 和 JesseGary PowerPoint Lab. 参与了该计划的主体建设。
 
 ## 友情链接
 
-[Bilibili OS](https://bilios.org.cn/forum.php)
+[Bili OS](https://bilios.org.cn/forum.php)
