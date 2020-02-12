@@ -33,3 +33,5 @@
 [Hill OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/4)
 
 [North OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
+
+[Blue OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/6)
