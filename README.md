@@ -16,12 +16,6 @@
 
 严禁发布和本计划无关的内容！
 
-## 课题
-
-我们将会设立一些专用课题供非常好的 PPT 系统来讨论、发布。
-
-[查看所有课题](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/projects)
-
 ## 评测您的系统
 
 本计划官方合作伙伴：JesseGary PowerPoint Lab.
@@ -31,6 +25,10 @@
 加入QQ群，可享受免费~付费评测，全面分析你的系统。
 
 QQ群号：630921681
+
+我们的最新评测结果将在“课题”中展示，敬请接触并了解。
+
+[查看所有课题](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/projects)
 
 ## 模范系统
 
