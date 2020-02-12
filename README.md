@@ -20,6 +20,8 @@
 
 [Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
+[North OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
+
 ## 系统列表
 
 这里将会展示本计划的所有系统。
@@ -29,3 +31,5 @@
 [FlyOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/2)
 
 [Hill OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/4)
+
+[North OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
