@@ -35,6 +35,10 @@ QQ群号：630921681
 
 [查看所有课题](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/projects)
 
+## 下载我们的PPT应用
+
+好吧，我们还在开发中，请稍等哈
+
 ## 模范系统
 
 这里将会展示本计划的模范代表性系统。
