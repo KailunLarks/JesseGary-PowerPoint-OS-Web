@@ -83,9 +83,9 @@ QQ群号：630921681
 
 ## 关于
 
-Newgen Studio 和 JesseGary PowerPoint Lab. 以及MX Studio参与了该计划的主体建设。
+Newgen Studio、JesseGary PowerPoint Lab. 以及 MX Studio 参与了该计划的主体建设。
 
-网站版本 20200212
+网站版本 20200213
 
 [Newgen Studio](https://nsc-mppt.github.io/)
 
