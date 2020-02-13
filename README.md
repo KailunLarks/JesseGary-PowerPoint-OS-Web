@@ -65,6 +65,14 @@ QQ群号：630921681
 
 [Fox](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/9)
 
+[iMod](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/14)
+
+[Smart OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/15)
+
+[KJ](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/16)
+
+[NOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/13)
+
 ## 游戏列表
 
 这里将会展示本计划的所有游戏。
