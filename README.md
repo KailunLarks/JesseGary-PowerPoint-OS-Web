@@ -2,9 +2,9 @@
 
 这是一项开源计划。这意味着您的项目将受到MIT开源许可协议。
 
-在这里，您可以发布您的PPT系统，参观别人的系统，制作一个小型官网并有几率获得被搜索引擎收录的机会，这可以让您出名。
+在这里，您可以发布您的PPT系统/游戏，参观别人的系统/游戏，制作一个小型官网并有几率获得被搜索引擎收录的机会，这可以让您出名。
 
-在此，请点击下方的链接开始从“Issues”分类中发布您的系统并参观别人的系统。
+在此，请点击下方的链接开始从“Issues”分类中发布您的系统/游戏并参观别人的系统。
 
 [访问 Issues ](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues)
 
@@ -51,6 +51,10 @@ QQ群号：630921681
 [NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
 [Blue OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/7)
+
+## 游戏列表
+
+这里将会展示本计划的所有游戏。
 
 ## 有疑问？
 
