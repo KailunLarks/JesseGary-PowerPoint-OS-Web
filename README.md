@@ -8,13 +8,13 @@
 
 [访问 Issues ](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues)
 
-[了解更多](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/wiki)
-
 您得先拥有一个 GitHub 账号才行。
 
 禁止发布引战、违法、威屁恩、不正当内容！
 
 严禁发布和本计划无关的内容！
+
+[前往帮助了解更多](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/wiki)
 
 ## 评测您的系统
 
@@ -37,7 +37,7 @@ QQ群号：630921681
 
 ## 下载该计划的PPT应用
 
-我们还在开发中，请稍等..
+好吧，我们还在开发中，请稍等..
 
 ## 模范系统
 
