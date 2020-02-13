@@ -25,7 +25,7 @@ assignees: NSC-MPPT, MXrek-outlook, PridePlayer, JesseGary
 
 # 屏幕截图
 
-在此 放置几张屏幕截图
+![](图片链接)
 
 # 下载地址
 
