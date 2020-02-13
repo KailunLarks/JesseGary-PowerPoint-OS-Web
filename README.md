@@ -75,6 +75,8 @@ QQ群号：630921681
 
 [NOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/13)
 
+[XDPA OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/17)
+
 ## 游戏列表
 
 这里将会展示本计划的所有游戏。
