@@ -38,6 +38,8 @@ QQ群号：630921681
 
 [NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
+[Fox](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/9)
+
 ## 系统列表
 
 这里将会展示本计划的所有系统。
@@ -51,6 +53,8 @@ QQ群号：630921681
 [NORTH OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/5)
 
 [Blue OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/7)
+
+[Fox](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/9)
 
 ## 游戏列表
 
