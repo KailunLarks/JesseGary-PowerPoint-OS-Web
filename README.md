@@ -49,6 +49,8 @@ QQ群号：630921681
 
 [Fox](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/9)
 
+[XDPA OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/17)
+
 ## 系统列表
 
 这里将会展示本计划的所有系统。
