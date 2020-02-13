@@ -2,7 +2,7 @@
 name: 发布 PPT 应用（实验）
 about: 点击右侧绿色按钮，使用此模板可快速生成一个PPT应用发布页面。
 title: ''
-labels: ''
+labels: PPT 应用发布
 assignees: NSC-MPPT, MXrek-outlook, PridePlayer, JesseGary
 
 ---
