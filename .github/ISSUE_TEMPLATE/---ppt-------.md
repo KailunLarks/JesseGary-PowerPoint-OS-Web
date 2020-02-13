@@ -2,7 +2,7 @@
 name: 发布 PPT 应用（实验）
 about: 点击右侧绿色按钮，使用此模板可快速生成一个PPT应用发布页面。
 title: ''
-labels: PPT 应用发布
+labels: PPT 应用发布, 生态圈
 assignees: NSC-MPPT, MXrek-outlook, PridePlayer, JesseGary
 
 ---
@@ -26,3 +26,6 @@ assignees: NSC-MPPT, MXrek-outlook, PridePlayer, JesseGary
 # 下载地址
 
 [获取](在此 填写您的链接)
+
+‘生态圈计划（系统统一商店，使PPT应用丰富起来），若同意请加QQ：2257814288，Jesse’
+'生态圈计划默认是被加入的，若想取消，请删除”生态圈“标签。'
