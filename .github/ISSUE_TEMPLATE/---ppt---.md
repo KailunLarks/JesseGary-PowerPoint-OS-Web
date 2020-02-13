@@ -1,6 +1,6 @@
 ---
 name: 发布 PPT 系统
-about: 使用此模板可快速生成一个PPT系统发布页面。
+about: 点击右侧绿色按钮，使用此模板可快速生成一个PPT系统发布页面。
 title: ''
 labels: PPT 系统发布
 assignees: NSC-MPPT, MXrek-outlook, PridePlayer, JesseGary
