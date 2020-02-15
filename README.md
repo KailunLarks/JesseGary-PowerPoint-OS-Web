@@ -55,6 +55,8 @@ QQ群号：630921681
 
 这里将会展示本计划的所有系统。
 
+[Q OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/19 "Q OS")
+
 [Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
 [FlyOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/2)
