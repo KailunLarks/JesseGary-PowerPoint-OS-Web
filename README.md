@@ -51,6 +51,10 @@ QQ群号：630921681
 
 [XDPA OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/17)
 
+[Litmus OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/24)
+
+[Lift OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/27)
+
 ## 系统列表
 
 这里将会展示本计划的所有系统。
@@ -78,6 +82,16 @@ QQ群号：630921681
 [NOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/13)
 
 [XDPA OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/17)
+
+[Pensieve OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/22)
+
+[Damon OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/23)
+
+[Litmus OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/24)
+
+[Snack OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/26)
+
+[Lift OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/27)
 
 ## 游戏列表
 
