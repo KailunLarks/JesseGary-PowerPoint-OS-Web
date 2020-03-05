@@ -39,6 +39,10 @@ QQ群号：630921681
 
 好吧，我们还在开发中，请稍等..
 
+## 公告
+
+最近发现了一些违反上传图片规则的帖子。请使用聚合图床来上传！！！否则卡到爆炸！！！！！！后果自负！！！！！
+
 ## 模范系统
 
 这里将会展示本计划的模范代表性系统。
@@ -63,7 +67,7 @@ QQ群号：630921681
 
 [Reagent OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/3)
 
-[FlyOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/2)
+[FlyOS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/28)
 
 [Hill OS](https://github.com/NSC-MPPT/JesseGary-PowerPoint-OS-Web/issues/4)
 
