@@ -28,3 +28,5 @@ Newgen Studio 和 Cladonia Team 开发。
 为什么我访问很慢？
 
 国外服务器！
+
+[返回官网](http://litmusos.mysxl.cn/)
