@@ -12,6 +12,7 @@
 
 [获取](https://nsc-mppt.github.io/JesseGary-PowerPoint-OS-Web/losurl.txt)
 
+
 ## 此版本更新的内容
 
 暂无更新内容
@@ -23,3 +24,7 @@ Litmus Update v1.0
 Newgen Studio 和 Cladonia Team 开发。
 
 主要功能：自动更新。
+
+为什么我访问很慢？
+
+国外服务器！
