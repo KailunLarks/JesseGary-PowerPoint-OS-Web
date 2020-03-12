@@ -15,3 +15,11 @@
 ## 此版本更新的内容
 
 暂无更新内容
+
+## 关于
+
+Litmus Update v1.0
+
+Newgen Studio 和 Cladonia Team 开发。
+
+主要功能：自动更新。
